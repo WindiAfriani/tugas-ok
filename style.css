@@ -82,21 +82,6 @@ nav ul li a:hover {
   text-decoration: none;
 }
 
-a.tbl-biru {
-    background: #FF9494;
-    border-radius: 20px;
-    margin-top: 20px;
-    padding: 15px 20px 15px 20px;
-    color: #ffffff;
-    cursor: pointer;
-    font-weight: bold;
-}
-
-a.tbl-biru:hover {
-    background: #06283D;
-    text-decoration: none;
-}
-
 section {
   margin: auto;
   display: flex;
@@ -133,6 +118,21 @@ h1 {
   color: #06283D;
   width: 100%;
   line-height: 10px;
+}
+
+a.tbl-biru {
+    background: #FF9494;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 15px 20px 15px 20px;
+    color: #ffffff;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+a.tbl-biru:hover {
+    background: #06283D;
+    text-decoration: none;
 }
 
 p {
